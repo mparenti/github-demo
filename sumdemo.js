@@ -5,4 +5,8 @@ function sum(a, b) {
 function sum (c, d) {
     return c - d;
 }
+
+function sum (c, d) {
+  return c - d;
+}
   module.exports = sum;
